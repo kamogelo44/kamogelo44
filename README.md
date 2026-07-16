@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Kamogelo+Phale;BSc+IT+Student;Java+%26+Spring+Boot+Developer;Building+Solutions+for+South+Africa&font=Fira%20Code&center=true&width=440&height=45&color=00FF00&vCenter=true&size=22">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamogelo44&label=Profile%20Views&color=0e75b6&style=flat">
-</p>
-
----
+# Hi, I'm Kamogelo Phale
 
 ## About Me
 
@@ -65,14 +57,15 @@ A Spring Boot REST API listing local services searchable by category.
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kamogelo44&show_icons=true&theme=dark"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamogelo44&layout=compact&theme=dark"></td>
-  </tr>
-</table>
+![Kamogelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamogelo44&show_icons=true&theme=dark)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamogelo44&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamogelo44&layout=compact&theme=dark)
+
+---
+
+## Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamogelo44&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff)
 
 ---
 
@@ -80,7 +73,9 @@ A Spring Boot REST API listing local services searchable by category.
 
 | Year | Institution | Qualification |
 |------|-------------|---------------|
-| 2025-2026 | Eduvos | BSc IT - Final Year |
+| 2023-2026 | Eduvos | BSc IT (Final Year) |
+
+*Started in 2023, took a gap year, completing in 2026.*
 
 ---
 
@@ -102,4 +97,4 @@ A Spring Boot REST API listing local services searchable by category.
 
 ---
 
-"Technology should empower people, not complicate their lives."
+*"Technology should empower people, not complicate their lives."*
