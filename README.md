@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm a final-year BSc IT student at Eduvos with a strong foundation in Java and OOP fundamentals. I'm currently expanding my skills across full-stack development, from PHP e-commerce platforms to Spring Boot REST APIs.
+BSc IT student at Eduvos. I build things that solve real problems.
 
-- Currently building: Local Services Directory API - A Spring Boot REST API
-- Currently learning: Spring Boot, JPA, REST API design
-- Looking to collaborate on Java/Spring Boot projects
-- Ask me about Java, PHP, MySQL, and system design
+- Currently learning: Spring Boot, JPA, REST APIs
+- Working on: A local services directory API
+- Previously built: ConsuTrade - a marketplace for informal traders
+- Interested in: Java, backend development, system design
 
 ---
 
@@ -20,52 +20,44 @@ I'm a final-year BSc IT student at Eduvos with a strong foundation in Java and O
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks & Libraries
+### Frameworks & Tools
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Tools
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ---
 
 ## Projects
 
-### ConsuTrade
+### ConsuTrade (Completed)
 
-A C2C e-commerce platform for South Africa's informal traders.
+A C2C marketplace for South African informal traders.
 
-**Built with:** PHP, MySQL, jQuery, PayFast, HTML5, CSS3
+**What it does:** Lets sellers list products, buyers purchase via PayFast, and admins manage the platform.
+
+**Tech:** PHP, MySQL, jQuery, PayFast
 
 [View Repository](https://github.com/kamogelo44/consutrade)
 
 ---
 
-### Local Services Directory API
+### Local Services Directory API (In Progress)
 
-A Spring Boot REST API listing local services searchable by category.
+A REST API for finding local services like clinics, taxi ranks, and government offices.
 
-**Built with:** Spring Boot 4.1, Java 25, Spring Data JPA, MySQL, Maven
+**What it does:** Allows searching and filtering services by category.
+
+**Tech:** Spring Boot 4.1, Java 25, Spring Data JPA, MySQL, Maven
 
 ---
 
 ## GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/kamogelo44?style=for-the-badge&logo=github&logoColor=white&label=Followers)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kamogelo44&show_icons=true&theme=dark)
 
-![GitHub stars](https://img.shields.io/github/stars/kamogelo44?style=for-the-badge&logo=github&logoColor=white&label=Stars)
-
----
-
-## Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamogelo44&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamogelo44&layout=compact&theme=dark)
 
 ---
 
@@ -73,28 +65,26 @@ A Spring Boot REST API listing local services searchable by category.
 
 | Year | Institution | Qualification |
 |------|-------------|---------------|
-| 2023-2026 | Eduvos | BSc IT (Final Year) |
+| 2023-2026 | Eduvos | BSc IT |
 
-*Started in 2023, took a gap year, completing in 2026.*
+*Started 2023, took a gap year, completing 2026.*
 
 ---
 
 ## Currently Learning
 
-- Spring Boot REST APIs
-- JPA/Hibernate with Jakarta Persistence
-- REST API Design Patterns
-- Maven Build Automation
+- Spring Boot and JPA
+- Building REST APIs
+- Java backend development
 
 ---
 
-## Achievements
+## What I've Built So Far
 
-- Built a full-stack e-commerce platform with 11 language support
-- Implemented secure payment integration with PayFast
-- Security-focused development (SQL injection protection, XSS prevention)
-- Building a Spring Boot REST API portfolio project
+- A full e-commerce platform with payment processing
+- Multi-language support (11 South African languages)
+- SQL injection protection, XSS prevention, BCRYPT hashing
 
 ---
 
-*"Technology should empower people, not complicate their lives."*
+*Building things. Learning as I go.*
