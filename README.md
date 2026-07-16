@@ -57,9 +57,9 @@ A Spring Boot REST API listing local services searchable by category.
 
 ## GitHub Stats
 
-![Kamogelo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kamogelo44&show_icons=true&theme=dark)
+![GitHub followers](https://img.shields.io/github/followers/kamogelo44?style=for-the-badge&logo=github&logoColor=white&label=Followers)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kamogelo44&layout=compact&theme=dark)
+![GitHub stars](https://img.shields.io/github/stars/kamogelo44?style=for-the-badge&logo=github&logoColor=white&label=Stars)
 
 ---
 
