@@ -10,7 +10,7 @@
 
 ## About Me
 
-Final-year IT student figuring out backend systems one broken build at a time. Right now that means working through a Spring Boot roadmap (REST APIs, JWT auth, third-party integrations, Docker, CI/CD) and shipping ConsuTrade, a marketplace app for South African informal traders that started as coursework and turned into something I actually care about.
+Final-year IT student figuring out backend systems one broken build at a time. Right now that means working through a Spring Boot roadmap (REST APIs, JWT auth, third-party integrations) and shipping ConsuTrade, a marketplace app for South African informal traders that started as coursework and turned into something I actually care about.
 
 Mostly Java and PHP by day. Still get genuinely excited about new things clicking into place, which I'm told is either a developer trait or a red flag.
 
@@ -32,7 +32,6 @@ Mostly Java and PHP by day. Still get genuinely excited about new things clickin
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
