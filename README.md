@@ -10,7 +10,7 @@
 
 ## About Me
 
-Final-year IT student figuring out backend systems one broken build at a time. Right now that means working through a Spring Boot roadmap (REST APIs, JWT auth, third-party integrations) and shipping ConsuTrade, a marketplace app for South African informal traders that started as coursework and turned into something I actually care about.
+Final-year IT student figuring out backend systems one broken build at a time. Right now that means working through a Spring Boot roadmap (REST APIs, JWT auth, third-party integrations) and building ConsuTrade, a marketplace app for South African informal traders, as my main coursework project.
 
 Mostly Java and PHP by day. Still get genuinely excited about new things clicking into place, which I'm told is either a developer trait or a red flag.
 
