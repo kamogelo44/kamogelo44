@@ -1,96 +1,64 @@
-# Hi, I'm Kamogelo Phale
+### Hi, I'm Kamogelo Phale
 
-## About Me
-BSc IT (Software Engineering) student at Eduvos. I build things that solve real problems.
-
-- Currently learning: Spring Boot, JPA, REST APIs
-- Working on: A local services directory API
-- Previously built: ConsuTrade - a marketplace for informal traders
-- Interested in: Java, backend development, system design
+BSc IT (Software Engineering) student at Eduvos. I build backend systems, REST APIs, and Java applications. Currently focused on deepening my understanding of Spring Boot and system architecture.
 
 ---
 
 ## Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**
+Java, PHP, JavaScript, SQL
 
-### Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+**Frameworks & Tools**
+Spring Boot, MySQL, Git, Maven, Android SDK
 
 ---
 
-## Projects
+## Notable Projects
 
-### ConsuTrade (Completed)
-A C2C marketplace for South African informal traders.
-
-**What it does:** Lets sellers list products, buyers purchase via PayFast, and admins manage the platform.
-
+### ConsuTrade
+A C2C marketplace for South African informal traders. Allows sellers to list products and buyers to purchase via PayFast integration. Includes administrative dashboards.
 **Tech:** PHP, MySQL, jQuery, PayFast
-
 [View Repository](https://github.com/kamogelo44/consutrade)
 
----
-
-### Local Services Directory API (In Progress)
-A REST API for finding local services like clinics, taxi ranks, and government offices.
-
-**What it does:** Allows searching and filtering services by category.
-
+### Local Services Directory API
+A REST API for searching and filtering local service providers such as clinics, taxi ranks, and government offices. Built with Spring Data JPA and a layered architecture.
 **Tech:** Spring Boot 4.1, Java 25, Spring Data JPA, MySQL, Maven
+[View Repository](https://github.com/kamogelo44/local-services-directory-api)
+
+### Data Structures & Algorithms (Java)
+A series of academic projects demonstrating core data structures.
+
+- **Merge Sort Algorithm** – Recursive divide-and-conquer sorting. [Repo](https://github.com/kamogelo44/Merge-Sort-Algorithm-Java)
+- **Bus Route Linked List** – Graph traversal simulation between Johannesburg and Pretoria. [Repo](https://github.com/kamogelo44/Bus-Route-LinkedList-Java)
+- **Online Shop Inventory** – Queue, Stack, and HashMap implementation for FCFS order processing. [Repo](https://github.com/kamogelo44/Online-Shop-Inventory-Java)
+- **Sorting Algorithm Analysis** – Step-by-step trace of Bubble Sort vs Selection Sort. [Repo](https://github.com/kamogelo44/Bubble-vs-Selection-Sort-Java)
 
 ---
 
-### Year 2 Academic Coursework
-Graded module projects from second year — database design, Java programming, data structures & algorithms, and more.
-
-[View Repository](https://github.com/kamogelo44/eduvos-year2-coursework)
+## Other Coursework & Practice
+This profile contains numerous smaller Java console applications (ATM Simulation, Grade Manager, Currency Converter, Quiz App) completed during my studies. These are publicly available in my repositories. There are also several private repositories containing academic projects and Android applications from mobile development coursework.
 
 ---
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kamogelo44&show_icons=true&theme=dark)
+## GitHub Statistics
+
+![Kamogelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamogelo44&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamogelo44&layout=compact&theme=dark)
 
 ---
 
 ## Education
 
-| Year | Institution | Qualification |
-|------|-------------|---------------|
-| 2023-2026 | Eduvos | BSc IT (Software Engineering) |
+**BSc IT (Software Engineering)** | Eduvos | 2023 – 2026
 
-*Started 2023, took a gap year, completing 2026.*
-
-**Curriculum highlights, by year:**
-
-**Year 1** — Introduction to Programming, Procedural Programming, Introduction to Information Systems, Computer Network and Security, Computer Skills, Human Computer Interaction, Mathematics 1A, Technical Writing and Communication, Business English
-
-**Year 2** — Database Systems, Network Security, Software and Security Engineering, Software Process/Architecture Design and Quality Assurance, Web Server Management, Mobile Application Development and Big Data, IT Project Management, Usability Engineering, plus Java-stream electives: Programming in Java, Data Structures and Algorithms in Java
-
-**Year 3 (current)** — Object Oriented Systems Analysis and Design, Operating Systems, Internet Programming and e-Commerce, 4IR Technologies, Research Design and Methodology, Project: Mobile Application and Web Services, plus Java-stream elective: Enterprise Programming in Java
+Completed coursework includes:
+- Java Programming & Data Structures
+- Database Systems
+- Software Architecture and Design
+- Mobile Application Development
+- Enterprise Programming (Spring Boot)
 
 ---
 
-## Currently Learning
-- Spring Boot and JPA
-- Building REST APIs
-- Java backend development
-
----
-
-## What I've Built So Far
-- A full e-commerce platform with payment processing
-- Multi-language support (11 South African languages)
-- SQL injection protection, XSS prevention, BCRYPT hashing
-
----
-
-*Building things. Learning as I go.*
+*Building systems. Learning continuously.*
