@@ -43,7 +43,15 @@ This profile contains numerous smaller Java console applications (ATM Simulation
 
 ## GitHub Statistics
 
-![Kamogelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamogelo44&show_icons=true&theme=dark)
+## GitHub Profile
+
+![Profile Views](https://komarev.com/ghpvc/?username=kamogelo44&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/kamogelo44?label=Follow&style=social)](https://github.com/kamogelo44)
+
+## GitHub Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kamogelo44&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamogelo44&layout=compact&theme=dark)
 
 ---
