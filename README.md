@@ -55,17 +55,6 @@ A set of academic projects demonstrating core data structures and algorithms:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kamogelo44&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamogelo44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-</div>
-
----
-
 <div align="center">
 <i>Still building. Still learning. Still enjoying it, somehow.</i>
 </div>
