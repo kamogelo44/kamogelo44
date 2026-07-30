@@ -1,8 +1,7 @@
 # Hi, I'm Kamogelo Phale
 
 ## About Me
-
-BSc IT student at Eduvos. I build things that solve real problems.
+BSc IT (Software Engineering) student at Eduvos. I build things that solve real problems.
 
 - Currently learning: Spring Boot, JPA, REST APIs
 - Working on: A local services directory API
@@ -14,14 +13,12 @@ BSc IT student at Eduvos. I build things that solve real problems.
 ## Tech Stack
 
 ### Languages
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks & Tools
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -32,7 +29,6 @@ BSc IT student at Eduvos. I build things that solve real problems.
 ## Projects
 
 ### ConsuTrade (Completed)
-
 A C2C marketplace for South African informal traders.
 
 **What it does:** Lets sellers list products, buyers purchase via PayFast, and admins manage the platform.
@@ -44,7 +40,6 @@ A C2C marketplace for South African informal traders.
 ---
 
 ### Local Services Directory API (In Progress)
-
 A REST API for finding local services like clinics, taxi ranks, and government offices.
 
 **What it does:** Allows searching and filtering services by category.
@@ -53,10 +48,15 @@ A REST API for finding local services like clinics, taxi ranks, and government o
 
 ---
 
+### Year 2 Academic Coursework
+Graded module projects from second year — database design, Java programming, data structures & algorithms, and more.
+
+[View Repository](https://github.com/kamogelo44/eduvos-year2-coursework)
+
+---
+
 ## GitHub Stats
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kamogelo44&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamogelo44&layout=compact&theme=dark)
 
 ---
@@ -65,14 +65,21 @@ A REST API for finding local services like clinics, taxi ranks, and government o
 
 | Year | Institution | Qualification |
 |------|-------------|---------------|
-| 2023-2026 | Eduvos | BSc IT |
+| 2023-2026 | Eduvos | BSc IT (Software Engineering) |
 
 *Started 2023, took a gap year, completing 2026.*
+
+**Curriculum highlights, by year:**
+
+**Year 1** — Introduction to Programming, Procedural Programming, Introduction to Information Systems, Computer Network and Security, Computer Skills, Human Computer Interaction, Mathematics 1A, Technical Writing and Communication, Business English
+
+**Year 2** — Database Systems, Network Security, Software and Security Engineering, Software Process/Architecture Design and Quality Assurance, Web Server Management, Mobile Application Development and Big Data, IT Project Management, Usability Engineering, plus Java-stream electives: Programming in Java, Data Structures and Algorithms in Java
+
+**Year 3 (current)** — Object Oriented Systems Analysis and Design, Operating Systems, Internet Programming and e-Commerce, 4IR Technologies, Research Design and Methodology, Project: Mobile Application and Web Services, plus Java-stream elective: Enterprise Programming in Java
 
 ---
 
 ## Currently Learning
-
 - Spring Boot and JPA
 - Building REST APIs
 - Java backend development
@@ -80,7 +87,6 @@ A REST API for finding local services like clinics, taxi ranks, and government o
 ---
 
 ## What I've Built So Far
-
 - A full e-commerce platform with payment processing
 - Multi-language support (11 South African languages)
 - SQL injection protection, XSS prevention, BCRYPT hashing
