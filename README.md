@@ -7,9 +7,9 @@ I'm an IT student at Eduvos with a strong focus on backend engineering, API deve
 
 ## About Me
 
-My development philosophy is rooted in building tools that solve real problems. I've built a functional C2C marketplace from scratch, developed a REST API for local services, three Android apps, and a range of Java console/desktop applications covering core data structures and OOP concepts.
+My development philosophy is rooted in building tools that solve real problems. I've built a functional C2C marketplace from scratch, developed a REST API for local services, three Android apps, and a range of Java console and desktop applications covering core data structures and OOP concepts.
 
-Beyond personal projects, I've completed coursework in Software Engineering, Database Systems, Mobile Application Development, and Network Security, and I'm currently working through Enterprise Java (Java EE/Jakarta EE fundamentals, without a framework) as part of my final year. I'm actively seeking opportunities to apply these skills in a professional environment.
+Beyond personal projects, I've completed coursework in Software Engineering, Database Systems, Mobile Application Development, and Network Security, and I'm currently working through Enterprise Java (Java EE/Jakarta EE fundamentals) as part of my final year. I'm actively seeking opportunities to apply these skills in a professional environment.
 
 ---
 
@@ -51,9 +51,20 @@ A REST API for searching and filtering local service providers — clinics, taxi
 
 ### Java Swing Student Management System
 A desktop GUI application with a MySQL backend, built for the Programming in Java module.
-- Add, view, search, and delete functionality using Java Swing.
+- Add, view, search, and delete functionality using Java Swing and JDBC.
 
 *[View Repository](https://github.com/kamogelo44/Java-Swing-Student-Management-MySQL)*
+
+### Hospital Search & Sort System
+A Java Swing application for managing patient records.
+- Search patients by name, sort alphabetically, or sort by age.
+
+*[View Repository](https://github.com/kamogelo44/Java-Hospital-GUI-Search-Sort)*
+
+### Java Sales Commission Calculator
+A console application that calculates employee commissions based on sales tiers and sorts employees using Bubble Sort.
+
+*[View Repository](https://github.com/kamogelo44/Java-Sales-Commission-Sorter)*
 
 ---
 
@@ -77,14 +88,12 @@ A portfolio of academic implementations covering core computer science concepts:
 ---
 
 ## Practice Projects
-12+ smaller Java console and menu-driven applications, covering OOP, file handling, and core logic:
-
-`StudentGradeMaster` · `ATMSimulation` · `LibraryManagementSystem` · `BankAccountManagementSystem` · `SimpleCurrencyConverter` · `RockPaperScissorsGame` · `ToDoListManager` · `BasicPasswordGenerator` · `TemperatureConverter` · `QuizApplication` · `NumberGuessingGame` · `SimpleCalculator`
+12+ smaller Java console and menu-driven applications, covering OOP, file handling, and core logic.
 
 ---
 
 ## Web Development (The Odin Project)
-Working through The Odin Project's curriculum to strengthen front-end fundamentals — in progress, not yet complete:
+Working through The Odin Project's curriculum to strengthen front-end fundamentals — in progress:
 
 - **[tradefree-design_website](https://github.com/kamogelo44/tradefree-design_website)** — a full webpage built from a design spec.
 - **[odin-recipes](https://github.com/kamogelo44/odin-recipes)** — a recipes page project.
@@ -97,16 +106,14 @@ Working through The Odin Project's curriculum to strengthen front-end fundamenta
 **Bachelor of Science in Information Technology (Software Engineering)**
 Eduvos | 2023 – 2026
 
-*Started 2023, took a gap year, completing 2026.*
-
-**Key coursework:**
+*Key coursework:*
 - Programming in Java
 - Data Structures and Algorithms in Java
 - Database Systems and Design
 - Software Architecture and Quality Assurance
 - Mobile Application Development (Android)
 - Web Server Management
-- Enterprise Java (Java EE/Jakarta EE fundamentals) — current
+- Enterprise Java (Java EE/Jakarta EE fundamentals)
 - Network Security
 
 ---
