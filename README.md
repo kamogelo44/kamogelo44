@@ -10,7 +10,6 @@ I work across **Java, Spring Boot, PHP, MySQL, and JavaScript**, with a growing 
 - 🎓 BSc IT (Software Engineering) — Eduvos, expected 2027
 - 🔭 Currently building production-style backend systems with Java & Spring Boot
 - 🌱 Working through The Odin Project for frontend depth
-- 📫 Reach me: kamogelobakeng44@gmail.com
 
 ---
 
